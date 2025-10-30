@@ -1,6 +1,4 @@
-import random
-import json
-from datetime import datetime
+import json 
 
 class Player:
     def __init__(self, first_name, last_name, date_of_birth, age, identification):

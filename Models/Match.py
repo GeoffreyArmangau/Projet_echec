@@ -1,7 +1,3 @@
-import random
-import json
-from datetime import datetime
-       
 class Match:
     """
     Un match unique stocké sous forme de tuple contenant deux listes.

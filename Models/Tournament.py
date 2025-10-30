@@ -1,7 +1,3 @@
-import random
-import json
-from datetime import datetime
-
 class Tournament:
     def __init__(self, name, location, beginning_date, end_date, lap = 4, actual_lap=0, laps = [], players = [], description=""):
         self.name = name
